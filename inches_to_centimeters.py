@@ -1,3 +1,3 @@
-a=int(input())
-b=2.54*a
-print('%0.2f'%b)
+inches=int(input())
+cm=2.54*inches
+print(f"{cm:.2f}")
